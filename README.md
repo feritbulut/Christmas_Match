@@ -1,4 +1,3 @@
-### GitHub README (English)
 
 # 🎄 Christmas Match Game 🎅  
 
