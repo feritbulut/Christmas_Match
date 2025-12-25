@@ -1,7 +1,10 @@
 
-**/*.cs linguist-language=C#
+*.ll linguist-vendored
+*.llvm linguist-vendored
+*.bc linguist-vendored
 
+**/*.cs linguist-language=C#
 **/*.cs linguist-detectable=true
 
-*.sln linguist-documentation=true
-*.csproj linguist-documentation=true
+**/*.sql linguist-language=SQL
+**/*.sql linguist-detectable=true
