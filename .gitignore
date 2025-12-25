@@ -1,0 +1,13 @@
+# Build sonuçları
+[Bb]in/
+[Ob]j/
+
+# Visual Studio geçici dosyaları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Paket yönetimi
+packages/
