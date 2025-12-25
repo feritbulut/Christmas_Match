@@ -17,7 +17,7 @@ Welcome to the **Christmas Match Game**, a fun and simple memory game created wi
 
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/yourusername/ChristmasMatch.git
+   git clone https://github.com/feritbulut/ChristmasMatch.git
    cd ChristmasMatch
    ```
 
