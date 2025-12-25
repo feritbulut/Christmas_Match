@@ -1,11 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 
-# Üçüncü parti klasörleri yok say
-vendor/** linguist-vendored
-third_party/** linguist-vendored
-build/** linguist-generated
+**/*.cs linguist-language=C#
 
-# Bazı dosyaların dilini zorla belirle
-*.cs linguist-language=C#
+**/*.cs linguist-detectable=true
 
+*.sln linguist-documentation=true
+*.csproj linguist-documentation=true
